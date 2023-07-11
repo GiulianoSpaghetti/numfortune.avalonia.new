@@ -1,5 +1,5 @@
 A fortune's linux clone for android in avalonia
-This is meant to be an experiment: the first 11 avalonia program compiled for android, for windows and for GNU/Linux.
+This is meant to be an experiment: the first avalonia 11 program compiled for android, windows and GNU/Linux.
 
 
 # Get it
