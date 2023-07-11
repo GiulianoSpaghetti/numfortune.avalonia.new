@@ -7,10 +7,7 @@ This is meant to be an experiment: the first 11 avalonia program compiled for an
 
 
 # Using repository
-Follow the guide at https://learn.microsoft.com/it-it/dotnet/core/install/linux-debian first
-
-
-Then follow the guide at http://numeronesoft.ddns.net
+Follow the guide at http://numeronesoft.ddns.net
 
 and then update and install numfortune
 
