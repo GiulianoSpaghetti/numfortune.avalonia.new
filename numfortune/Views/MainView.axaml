@@ -1,0 +1,23 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="clr-namespace:numfortune.ViewModels"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="numfortune.Views.MainView"
+             x:DataType="vm:MainViewModel">
+  <Design.DataContext>
+    <!-- This only sets the DataContext for the previewer in an IDE,
+         to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
+    <vm:MainViewModel />
+  </Design.DataContext>
+	<StackPanel>
+		<TextBox x:Name="cookie" TextWrapping="Wrap" AcceptsReturn="true" HorizontalAlignment="Center" VerticalAlignment="Center" IsEnabled="false"/>
+		<Button Content="Get new Cookie" HorizontalAlignment="Center" VerticalAlignment="Center" Click="OnTick_Click"/>
+		<TextBlock TextWrapping="Wrap" HorizontalAlignment="Center" VerticalAlignment="Center" >ⓒ Giulio Sorrentino 2023 some right reserved</TextBlock>
+		<TextBlock TextWrapping="Wrap" HorizontalAlignment="Center" VerticalAlignment="Center" >Version 2.0 based on avalonia 11.0.4</TextBlock>
+		<TextBlock TextWrapping="Wrap" HorizontalAlignment="Center" VerticalAlignment="Center" >A simple fortune teller for android, Windows and GNU/Linux.</TextBlock>
+		<TextBlock TextWrapping="Wrap" HorizontalAlignment="Center" VerticalAlignment="Center" >This app is under GPL v3 or, in your humble opinion, any later version</TextBlock>
+		<TextBlock TextWrapping="Wrap" HorizontalAlignment="Center" VerticalAlignment="Center" >https://github.com/numerunix/numfortune.avalonia.new</TextBlock>
+	</StackPanel>
+</UserControl>
