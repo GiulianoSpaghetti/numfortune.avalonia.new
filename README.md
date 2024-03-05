@@ -1,6 +1,9 @@
 # numfortune.avalonia.new
 Un fortune teller in avalonia secondo il modello reactive ui
 
+# Presentazione
+https://1drv.ms/u/s!ApmOB0x2yBN0kohnxHGDd15w3hJpnQ?e=fzdMms
+
 # Come installare
 
 # Su Windows
