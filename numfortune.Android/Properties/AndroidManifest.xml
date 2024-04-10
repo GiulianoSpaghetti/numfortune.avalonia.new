@@ -2,5 +2,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="internalOnly" package="org.altervista.numerone.numfortune" android:versionCode="10" android:versionName="2.0">
 	<uses-permission android:name="android.permission.INTERNET" />
 	<application android:label="numerone's fortune" android:icon="@drawable/icon" />
-	<uses-sdk android:minSdkVersion="21" android:targetSdkVersion="33" />
+	<uses-sdk android:minSdkVersion="21" android:targetSdkVersion="34" />
 </manifest>
