@@ -1,7 +1,5 @@
 # numfortune.avalonia.new
-Un fortune teller in avalonia secondo il modello reactive ui
-
-ATTENZIONE: il sito di riferimento dei cookie è stato modificato, ora non offre più di 3 cookie per sessione.
+Un fortune teller in avalonia
 
 # Presentazione
 https://1drv.ms/u/s!ApmOB0x2yBN0kohnxHGDd15w3hJpnQ?e=fzdMms
