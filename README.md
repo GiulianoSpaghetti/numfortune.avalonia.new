@@ -1,8 +1,8 @@
-# numfortune.avalonia.new
+## numfortune.avalonia.new
 Un fortune teller in avalonia
 
-# Presentazione
-https://1drv.ms/u/s!ApmOB0x2yBN0kohnxHGDd15w3hJpnQ?e=fzdMms
+## ATTENZIONE
+Il prodotto viene dichiarato dismesso e sostituito dal numfortune.material
 
 
 # Donazioni
