@@ -1,7 +1,7 @@
 ﻿using System;
 using WixSharp;
 
-namespace windatefrom_setup
+namespace numfortune_setup
 {
     internal class Program
     {
